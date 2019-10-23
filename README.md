@@ -63,3 +63,10 @@ XKBLAYOUT=us
 BACKSPACE=guess
 XKBVARIANT=altgr-intl
 ```
+
+# Mudar cor de fundo da tela de login
+
+```
+$ sudo vim /usr/share/gnome-shell/theme/ubuntu.css
+```
+Mudar a cor dentro do estilo referente ao elemento #lockDialogGroup

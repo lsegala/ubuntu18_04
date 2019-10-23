@@ -1,7 +1,7 @@
 # MacBuntu
 
-Link: https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html
-Youtube: https://www.youtube.com/watch?v=AHzGYG2XvMI
+* Link: https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html
+* Youtube: https://www.youtube.com/watch?v=AHzGYG2XvMI
 
 ## Script
 
